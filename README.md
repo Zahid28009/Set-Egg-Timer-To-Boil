@@ -1,6 +1,5 @@
-# Set-Egg-Timer-To-Boil
-Hey, I created an app where, 
+Hey, I created an app,
 
-We set time with seek bar for Egg boil Time &
+Where We can set time with seek bar for Egg boil Time &
 
-when time end then the app alert with customize sound.
+when the time ends then the app alert with a customized sound.
